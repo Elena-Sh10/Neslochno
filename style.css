@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: LightBlue;
+    color: DarkBlue;
+}
+
+header a {
+    text-decoration: azure;
+    background-color: white;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+header img {
+    padding: 7px;
+}
+
+main h1 {
+    background-color: LightBlue;
+    color: Blue;
+    font-family:inherit;
+    padding: 6px;
+    font-size: 25px;
+    text-align: center;
+}
+
+footer {
+    background-color: Plum;
+}
+
+footer p {
+    background-color: white;
+    padding: 2px;
+    margin: 5px;
+    border: 7px solid Plum;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(38, 0, 255);
+    padding: 25px;
+
+}
+
+nav {
+    border: 3px solid rgb(111, 182, 254);  
+    margin: 10px;
+    padding: 2px;
+    text-align: center;
+    font-family:inherit;
+}
+
+.Nashy {
+    border: 3px solid rgb(17, 0, 255); 
+    border-radius: 10px;
+}
+
+.Sezon {
+    color: Blue;
+    font-size: 35px;
+}
+
+.kak {
+    color: Blue;
+    font-size: 32px;
+}
+
+.kontact {
+    text-decoration: none;
+    border: 2px solid rgb(17, 0, 255); 
+    padding: 4px;
+}
